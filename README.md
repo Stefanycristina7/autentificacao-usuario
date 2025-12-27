@@ -67,3 +67,10 @@ Nesse arquivo ficam registrados os usuários e suas respectivas senhas codificad
 
 ---
 
+## 🛠 Como clonar o projeto
+
+1️⃣ Abra o terminal (Git Bash, CMD ou terminal do VS Code) e clone o repositório:
+
+```bash
+git clone https://github.com/Stefanycristina7/autentificacao-usuario.git
+cd autentificacao-usuario
